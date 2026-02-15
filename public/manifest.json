@@ -1,0 +1,14 @@
+{
+  "name": "Hindi Voice AI Assistant",
+  "description": "Hindi Voice AI Assistant is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://0ed6f90c-1d4c-4127-87a2-af20100b6bdc.vercel.app",
+  "properties": {
+    "app": {
+      "name": "Hindi Voice AI Assistant",
+      "description": "Hindi Voice AI Assistant is a Base Mini App built with Zara.",
+      "url": "https://0ed6f90c-1d4c-4127-87a2-af20100b6bdc.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
